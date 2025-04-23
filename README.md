@@ -1,1 +1,1 @@
-# waves_quartz_repo
+# These are the Matlab and python codes for the animations related to Quartz clocks
